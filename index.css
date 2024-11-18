@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #016f32;
+    font-weight: bold;
+}
+
+
+
+h1 {
+    color: goldenrod;
+    font-family: jaguar;
+    font-size: 54px;
+}
+
+#message-el {
+    font-family: inter;
+    color: white;
+    font-style: italic;
+    font-size: 24px;
+}
+
+#cards-el,
+#sum-el {
+    font-family: inter;
+    color: white;
+
+    font-size: 16px;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    border: none;
+    padding: 5px 0px;
+    font-weight: bold;
+    font-family: inter;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-top: 8px;
+}
+
+#player-el {
+    color: aliceblue;
+}
